@@ -331,7 +331,7 @@ a:focus {
     font-weight: 600;
     letter-spacing: 1px;
     color: #fff;
-    background: #01363F;
+    background: #dd3909;
     border-radius: 0;
     transition: .3s;
 }
@@ -551,7 +551,7 @@ a:focus {
     font-weight: 600;
     letter-spacing: 1px;
     color: #fff;
-    background: #40BCE2;
+    background: #dd3909;
     border-radius: 0;
     transition: .3s;
 }
@@ -864,14 +864,14 @@ a:focus {
     font-weight: 600;
     letter-spacing: 1px;
     color: white;
-    background: #03D0FF;
+    background: #dd3909;
     border-radius: 0;
     transition: .3s;
 }
 
 .discount .discount-text .btn:hover {
     color: #fff;
-    background: #027396;
+    background: #03D0FF;
 }
 
 
